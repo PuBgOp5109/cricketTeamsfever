@@ -1,0 +1,247 @@
+#body_index{
+    background-size:cover;
+}
+#buttonICC{
+    float: left;
+    margin-left: 200px;
+    margin-top: 300px;
+    width: 260px;
+    font-size: 50px;
+    height: 200px;
+    border-radius: 20px;
+}
+#buttonIPL{
+    float: right;
+    margin-right: 200px;
+    margin-top: 300px;
+    width: 250px;
+    font-size: 50px;
+    height: 200px;
+    border-radius: 20px;
+
+}
+
+#dc_img{
+    width: 200px;
+    height: 170px;
+}
+#csk_img{
+    width: 200px;
+    height: 150px;
+}
+#rcb_img{
+    width: 200px;
+    height: 180px;
+}
+#rr_img{
+    width: 200px;
+    height: 150px;
+}
+#mi_img{
+    width: 200px;
+    height: 150px;
+}
+#pbks_img{
+    width: 200px;
+    height: 150px;
+}
+#srh_img{
+    width : 200px;
+    height: 150px;
+}
+#kkr_img{
+    width: 200px;
+    height: 150px;
+}
+
+#body_ipl{
+    background-size: cover;
+}
+#body_icc{
+    background-size:cover;
+}
+#button_rcb{
+    background-color:red;
+    width: 300px;
+    color: goldenrod;
+    margin: 10px;
+    height: 400px;
+}
+#div_rcb{
+    background-color: red;
+    color: goldenrod;
+    text-align: center;
+    width: 500px;
+    height: 100%;
+    margin: 50px;
+    margin-top: 20px;
+}
+#body_rcb{
+    background-color: black;
+}
+#button_dc{
+    background-color:mediumblue;
+    width: 300px;
+    color:gray;
+    margin: 10px;
+    height: 400px;
+}
+#div_dc{
+    background-color:mediumblue;
+    color: red;
+    text-align: center;
+    width: 500px;
+    height: 100%;
+    margin: 50px;
+    margin-top: 20px;
+}
+#body_dc{
+    background-color: grey;
+}
+
+#button_csk{
+    background-color:yellow;
+    width: 300px;
+    color:blue;
+    margin: 10px;
+    height: 400px;
+}
+#div_csk{
+    background-color:yellow;
+    color:blue;
+    text-align: center;
+    width: 500px;
+    height: 100%;
+    margin: 50px;
+    margin-top: 20px;
+}
+#body_csk{
+    background-color:orange;
+}
+#button_kkr{
+    background-color:rebeccapurple;
+    color: goldenrod;
+    width: 300px;
+    margin: 10px;
+    height: 400px;
+}
+#div_kkr{
+    background-color:rebeccapurple;
+    color:goldenrod;
+    text-align: center;
+    width: 500px;
+    height: 100%;
+    margin: 50px;
+    margin-top: 20px;
+}
+#body_kkr{
+    background-color:goldenrod;
+}
+#button_mi{
+    background-color:blue;
+    color: goldenrod;
+    width: 300px;
+    margin: 10px;
+    height: 400px;
+}
+#div_mi{
+    background-color:blue;
+    color:goldenrod;
+    text-align: center;
+    width: 500px;
+    height: 100%;
+    margin: 50px;
+    margin-top: 20px;
+}
+#body_mi{
+    background-color:orange;
+}
+#button_pbks{
+    background-color:crimson;
+    color: white;
+    width: 300px;
+    margin: 10px;
+    height: 400px;
+}
+#button_srh{
+    background-color:orangered;
+    color: orange;
+    width: 300px;
+    margin: 10px;
+    height: 400px;
+}
+#button_rr{
+    background-color:pink;
+    color: blue;
+    width: 310px;
+    margin: 30px;
+    height: 400px;
+}
+#div_india{
+    background-color: aqua;
+    border-radius: 10%;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+}
+#div_southAfrica{
+    background-color:lawngreen;
+    border-radius: 10%;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+}
+
+#div_australia{
+    background-color: rgb(255, 244, 95);
+    border-radius: 10%;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+}
+
+#div_Pakistan{
+    background-color:green;
+    border-radius:10%;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+}
+
+#div_England{
+    background-color:crimson;
+    border-radius: 10%;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+}
+
+#div_afghanistan{
+    background-color: gray;
+    border-radius: 10%;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+}
+
+#div_westIndies{
+    background-color:brown ;
+    border-radius: 10%;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+}
+
+#div_bangladesh{
+    background-color:darkgreen;
+    border-radius: 10%;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+}
+#div_ipl_top{
+    align-self: auto;
+}
+#div_ipl_bottom{
+    align-self: auto;
+}
